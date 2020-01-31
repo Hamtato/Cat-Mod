@@ -1,0 +1,8 @@
+{
+    "name": "CatMod",
+    "version": "0.0.4",
+    "title" : "Cat Mod",
+    "author": "Hamtato",
+    "factorio_version": "0.17",
+    "description": "This mod adds a pet cat to be your companion in this lonely world."
+}
